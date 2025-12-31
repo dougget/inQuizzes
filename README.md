@@ -7,7 +7,7 @@ Upload your document and let AI generate a quiz for you!
 ---
 
 ## Live Demo
-[inQuizzes.dougget.com](https://inquizzes.dougget.duckdns.org/)
+[inQuizzes.dougget.com](https://inquizzes.dougget.com)
 
 ---
 
